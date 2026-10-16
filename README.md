@@ -8,7 +8,7 @@ Aquí están todas las prácticas del curso. Cada una tiene su propio archivo co
 
 | # | Práctica | Herramientas | Entregable | Archivo |
 |---|---|---|---|---|
-| 1 | Presupuesto del evento de fin de curso | OneDrive, Excel Online, Word Online | Enlace(s) de Excel Online (1 h) o Excel + Word Online (2 h) | [Abrir Práctica 1](Practica1.md) |
+| 1 | Presupuesto del evento de fin de curso | OneDrive, Excel Online, Word Online | Enlace(s) de Excel Online (1 h) o Excel + Word Online (2 h) | [Abrir Práctica 1](Practica1.md)|
 | 2 | *Próximamente* | | | |
 | 3 | *Próximamente* | | | |
 
